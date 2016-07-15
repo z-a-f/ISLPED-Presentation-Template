@@ -5,6 +5,8 @@ ISLPED Beamer Presentation Template
 
 The make structure is a modification of the [MIT Beamer template](https://github.com/jtriley/mit-beamer). The original README is below.
 
+**Note:** The install path in the original README points to the MIT repo. Replace it with the ISLPED REPOSITORY.
+
 MIT - Beamer Presentation Template
 ----------------------------------
 
