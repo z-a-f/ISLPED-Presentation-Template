@@ -3,7 +3,7 @@ ISLPED Beamer Presentation Template
 
 ![Preview](preview.png)
 
-The make structure is a modification of the [MIT Beamer template](https://github.com/jtriley/mit-beamer). The original README is below.
+The make structure is a modification of the [MIT Beamer template](https://github.com/jtriley/mit-beamer). The original README is below. 
 
 **Note:** The install path in the original README points to the MIT repo.
 
@@ -45,8 +45,8 @@ Generating the presentation:
 - The above `"make view-*"` commands will automatically build $HOME/ISLPED-Presentation-Template/out/slides.pdf if necessary
 
 
-MIT - Beamer Presentation Template
-----------------------------------
+(ORIGINAL) MIT - Beamer Presentation Template
+---------------------------------------------
 
 Latex Beamer presentation template derived from Andreas Kloeckner's brown-beamer template:
 
